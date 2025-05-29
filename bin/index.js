@@ -4,7 +4,7 @@ const { program } = require('commander');
 const addComponent = require('../src/commands/add');
 
 program
-  .version('1.0.5')
+  .version('1.0.7')
   .description('pixelblock-rn-cli: A CLI tool for generating organized React Native components with TypeScript');
 
 program
